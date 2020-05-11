@@ -1,0 +1,1 @@
+Make sure you are using the 2.5.1 version of SFML, otherwise try to change the build.sh of each project to your preferences
